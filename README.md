@@ -4,7 +4,7 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)
 
 # Changelog  
-# Forge 1.18.2, 1.19.2 and 1.19.4  
+# Forge 1.18.2, 1.19.2, 1.19.4 and 1.20.1  
 v1.0.2  
 Added a support for Forge 1.20.1  
   
