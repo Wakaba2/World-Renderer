@@ -8,6 +8,7 @@ v1.1.0
 Added a support for NeoForge 1.20.1 (MCreator 2023.3 - 1.18.2 / 1.19.2 / 1.19.4 / 1.20.1)  
 Forge 1.17.1 Merged with Forge 1.15.2 / 1.16.5 (MCreator 2022.3)  
 Added a procedure "Render overworld"  
+Improved advenced rendering  
 Fixed some bugs  
   
 v1.0.2  
