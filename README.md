@@ -4,6 +4,9 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)
 
 # Changelog  
+v1.2.1  
+Fixed some bugs  
+  
 v1.2.0  
 Update procedure lists  
 The sky is always cleared in custom dimension  
