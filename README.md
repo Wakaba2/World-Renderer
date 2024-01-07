@@ -1,9 +1,17 @@
-# World Renderer
-This plugin allows you to render objects on the sky and world
-
-![gif](https://i.imgur.com/H9lEztq.png)
-
+# World Renderer  
+This plugin allows you to render objects on the sky and world  
+  
+![gif](https://i.imgur.com/H9lEztq.png)  
+  
 # Changelog  
+v1.3.0  
+Added a trigger and procedure to render clouds  
+Added a trigger and procedure to render rain and snow  
+Added a trigger and procedure to add effects for rain and snow  
+Added a procedure "Set cloud scale"  
+Added a procedure "Get cloud color"  
+Fixed some bugs  
+  
 v1.2.1  
 Fixed some bugs  
   
