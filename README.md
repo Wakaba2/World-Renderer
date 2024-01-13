@@ -4,6 +4,9 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.3.4  
+Fixed some bugs  
+  
 v1.3.3  
 Added a blend mode: "CLOUDS"  
 Added a procedure "Set color mask"  
