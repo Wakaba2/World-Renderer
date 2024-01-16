@@ -4,6 +4,9 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.4.2  
+Added a procedure "Render particle", which it can use on an event trigger "Render world"  
+  
 v1.4.1  
 Fixed stitching of sky box. See the guide for details
   
