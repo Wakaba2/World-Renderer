@@ -4,6 +4,9 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.4.1  
+Fixed stitching of sky box. See the guide for details
+  
 v1.4.0  
 Added a procedure "Use stencil"  
 Fixed some bugs  
