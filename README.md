@@ -4,6 +4,9 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.4.6  
+Fixed some bugs  
+  
 v1.4.5  
 Added an event trigger "Set effects", which can disable clouds, sky, rain/snow, etc. Also, procedure templates is available  
 Added a procedure "Set cloud height"  
