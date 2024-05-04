@@ -46,7 +46,7 @@ v1.3.4
 Fixed some bugs  
   
 v1.3.3  
-Added a blend mode: "CLOUDS"  
+Added a blend mode "CLOUDS"  
 Added a procedure "Set color mask"  
 Fixed some bugs  
   
