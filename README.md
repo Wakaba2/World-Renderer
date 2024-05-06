@@ -13,6 +13,7 @@ Improved procedure lists
 Added a support for MCreator 2023.4 - Forge 1.19.2  
 Added supports for MCreator 2024.1 - Forge 1.19.4 / 1.20.1 / NeoForge 1.20.4  
 Stopped supports for Forge 1.14.4 / 1.15.2 / 1.16.5 / 1.17.1 / 1.18.2  
+Fixed some bugs  
   
 v1.4.6  
 Fixed some bugs  
