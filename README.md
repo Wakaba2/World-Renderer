@@ -7,8 +7,8 @@ This plugin allows you to render objects on the sky and world
 v1.5.0  
 Added an event trigger "Render shapes" for rendering shapes like triangles and quads etc.  
 Added an event trigger "Render models" for rendering blocks, items, and entities  
-Added a procedure to render blocks  
-Added a procedure to render items  
+Added a procedure for block rendering   
+Added a procedure for item rendering  
 Improved procedure lists  
 Added a support for MCreator 2023.4 - Forge 1.19.2  
 Added supports for MCreator 2024.1 - Forge 1.19.4 / 1.20.1 / NeoForge 1.20.4  
