@@ -5,8 +5,8 @@ This plugin allows you to render objects on the sky and world
   
 # Changelog  
 v1.5.1  
-Added a procedure to get a render distance
-Added a procedure to set up dimensions with constant lights.
+Added a procedure to get a render distance  
+Added a procedure to set up dimensions with constant lights  
 Added a support for MCreator 2024.1 - Forge 1.19.2  
   
 v1.5.0  
