@@ -4,9 +4,14 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.5.1  
+Added a procedure to get a render distance
+Added a procedure to set up dimensions with constant lights.
+Added a support for MCreator 2024.1 - Forge 1.19.2  
+  
 v1.5.0  
-Added an event trigger "Render shapes" for rendering shapes like triangles and quads etc.  
-Added an event trigger "Render models" for rendering blocks, items, and entities  
+Added an event trigger "Render shapes" to render shapes like triangles and quads etc.  
+Added an event trigger "Render models" to render blocks, items, and entities  
 Added a procedure for block rendering   
 Added a procedure for item rendering  
 Improved procedure lists  
