@@ -7,11 +7,11 @@ This plugin allows you to render objects on the sky and world
 v1.5.1  
 Added a procedure to set up dimensions with constant lights  
 Added a procedure to get a render distance  
-Added a procedure to set depth masking
-Added a procedure to set a render target for shapes
-Added a procedure to set a coordinate system for shapes
+Added a procedure to set depth masking  
+Added a procedure to set a render target for shapes  
+Added a procedure to set a coordinate system for shapes  
 Added a support for MCreator 2024.1 - Forge 1.19.2  
-Some fixes and improvements
+Some fixes and improvements  
   
 v1.5.0  
 Added an event trigger "Render shapes" to render shapes like triangles and quads etc.  
