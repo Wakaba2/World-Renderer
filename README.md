@@ -5,8 +5,8 @@ This plugin allows you to render objects on the sky and world
   
 # Changelog  
 v1.5.3  
-Add a procedure to check whether the game is paused  
-Add a procedure to set a shape offset  
+Added a procedure to check whether the game is paused  
+Added a procedure to set a shape offset  
 Some fixes and improvements  
 Fixed some bugs  
   
