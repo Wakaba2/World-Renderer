@@ -4,6 +4,13 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.5.4  
+Added a procedure template "Graphics - Shape - Render a head"  
+Added a procedure template "Graphics - Shape - Render a sphere"  
+Added a procedure template "Graphics - Shape - Render an octahedron"  
+Improved procedure lists  
+Some fixes and improvements  
+  
 v1.5.3  
 Added a procedure to check whether the game is paused  
 Added a procedure to set a shape offset  
