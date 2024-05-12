@@ -5,6 +5,8 @@ This plugin allows you to render objects on the sky and world
   
 # Changelog  
 v1.5.4  
+Added a procedure template "Graphics - Shape - Render a cone"  
+Added a procedure template "Graphics - Shape - Render a cylinder"  
 Added a procedure template "Graphics - Shape - Render a head"  
 Added a procedure template "Graphics - Shape - Render a sphere"  
 Added a procedure template "Graphics - Shape - Render a torus"  
