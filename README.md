@@ -4,6 +4,11 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.5.5  
+Added a procedure to iterate weather positions  
+Improved a procedure template "Graphics - Weather - Render weather"  
+Fixed some bugs  
+  
 v1.5.4  
 Added a procedure template "Graphics - Shape - Render a cone"  
 Added a procedure template "Graphics - Shape - Render a cylinder"  
