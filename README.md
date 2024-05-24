@@ -4,6 +4,13 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.6.0  
+Added procedures and an event trigger to render texts  
+Added a procedure to iterate block entities  
+Added a variable "shape" to get shapes from other procedure elements  
+Added a procedure to get an entity the player is looking at  
+Some fixes and improvements  
+  
 v1.5.5  
 Added a procedure to iterate weather positions  
 Improved a procedure template "Graphics - Weather - Render weather"  
