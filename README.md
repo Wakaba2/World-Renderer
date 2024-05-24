@@ -9,6 +9,7 @@ Added procedures and an event trigger to render texts
 Added a procedure to iterate block entities  
 Added a procedure to get an entity the player is looking at  
 Added a variable "shape" to get shapes from other procedure elements  
+Removed a procedure template "Graphics - Render a head", and added "Graphics - Render a block."  
 Some fixes and improvements  
   
 v1.5.5  
