@@ -4,6 +4,9 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.6.1  
+Fixed some bugs  
+  
 v1.6.0  
 Added procedures and an event trigger to render texts  
 Added a procedure to iterate block entities  
