@@ -4,6 +4,10 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.6.2  
+Added a procedure to set a color mask
+Some fixes and improvements  
+  
 v1.6.1  
 Fixed some bugs  
   
