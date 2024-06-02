@@ -4,6 +4,9 @@ This plugin allows you to render objects on the sky and world
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
 # Changelog  
+v1.6.4  
+Some fixes and improvements  
+  
 v1.6.3  
 Some fixes and improvements  
 Fixed some bugs  
