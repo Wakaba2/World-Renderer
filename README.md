@@ -7,6 +7,7 @@ This plugin allows you to render objects on the sky and world
 v1.7.0  
 Added procedures and an event trigger to render overlays  
 Event trigger "Graphics - Render shapes" can render overlays  
+Added procedure templates for overlays  
 Some fixes and improvements  
 Fixed some bugs  
   
