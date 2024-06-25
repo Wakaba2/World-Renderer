@@ -3,6 +3,9 @@ This plugin allows you to render objects on the sky and world
   
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
+# Templates  
+There are extra procedure templates in the directory "templates", and you can download and use them just like the built-in templates.  
+  
 # Changelog  
 v1.7.0  
 Added procedures and an event trigger to render overlays  
