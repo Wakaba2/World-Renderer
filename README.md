@@ -8,7 +8,8 @@ There are extra procedure templates in the directory "templates", and you can do
   
 # Changelog  
 v1.8.0  
-Added supports for custom light colors  
+Added support for NeoForge 1.20.6  
+Added support for custom light colors  
 Added some procedures to get data for rendering  
 Some fixes and improvements  
 Fixed some bugs  
