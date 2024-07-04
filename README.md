@@ -7,6 +7,12 @@ This plugin allows you to render objects on the sky and world
 There are extra procedure templates in the directory "templates", and you can download and use them just like the built-in templates.  
   
 # Changelog  
+v1.8.0  
+Added supports for custom light colors  
+Added some procedures to get data for rendering  
+Some fixes and improvements  
+Fixed some bugs  
+  
 v1.7.1  
 Some fixes and improvements  
 Fixed some bugs  
