@@ -11,6 +11,8 @@ v1.8.0
 Added support for NeoForge 1.20.6  
 Added support for custom light colors  
 Added some procedures to get data for rendering  
+Removed event trigger "Graphics - render texts"  
+Texts can be rendered on event trigger "Graphics - render models"  
 Some fixes and improvements  
 Fixed some bugs  
   
