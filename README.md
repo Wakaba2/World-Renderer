@@ -7,6 +7,10 @@ This plugin allows you to render objects on the sky and world
 There are extra procedure templates in the directory "templates", and you can download and use them just like the built-in templates.  
   
 # Changelog  
+v1.8.1  
+In order to disable vanilla clouds, sky, weather and weather effects, you will need to return logic "true" on each of event triggers  
+Some fixes and improvements  
+  
 v1.8.0  
 Added support for NeoForge 1.20.6  
 Added support for custom light colors  
@@ -184,5 +188,5 @@ Added a procedure "Render sky box"
 Fixed some bugs  
   
 # Information:
-This plugin supports Forge 1.19.2 / 1.19.4 / 1.20.1 / NeoForge 1.20.4  
+This plugin supports Forge 1.19.2 / 1.19.4 / 1.20.1 / NeoForge 1.20.4 / 1.20.6  
 License: MITLicense  
