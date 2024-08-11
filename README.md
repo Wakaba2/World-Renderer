@@ -7,6 +7,12 @@ This plugin allows you to render objects on the sky and world
 There are extra procedure templates in the directory "templates", and you can download and use them just like the built-in templates.  
   
 # Changelog  
+v1.8.2  
+The event trigger "Graphics - Render models" is changed to new the event trigger "Graphics - Render world"  
+The procedure list "Model" is changed to new the procedure list "World"  
+Some fixes and improvements  
+Fixed some bugs  
+  
 v1.8.1  
 In order to disable vanilla clouds, sky, weather and weather effects, you will need to return logic "true" on each of event triggers  
 Some fixes and improvements  
