@@ -8,7 +8,7 @@ There are extra procedure templates in the directory "templates", and you can do
   
 # Changelog  
 v1.8.2  
-The event trigger "Graphics - Render models" is changed to new the event trigger "Graphics - Render world"  
+The event trigger "Graphics - Render models" was changed to new the event trigger "Graphics - Render world"  
 The procedure list "Model" is changed to new the procedure list "World"  
 Added a procedure to render a line, which can be used for the event trigger "Graphics - Render world"  
 Some fixes and improvements  
