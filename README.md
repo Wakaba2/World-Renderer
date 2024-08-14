@@ -10,7 +10,7 @@ You can download and use them just like the built-in templates.
 # Changelog  
 v1.8.3  
 You need to set an overlay target in order to render overlays  
-Changed the rendering system for overlays on shapes  
+Changed the rendering system for shape overlays  
 Added the procedure "Set sky light color"  
 Added the procedure "Set block light color"  
 Removed the procedure "Multiply sky light color"  
