@@ -8,6 +8,16 @@ There are many procedure templates in the directory "templates."
 You can download and use them just like the built-in templates.  
   
 # Changelog  
+v1.8.3  
+You need to set an overlay target in order to render overlays  
+Added the procedure "Set sky light color"  
+Added the procedure "Set block light color"  
+Removed the procedure "Multiply sky light color"  
+Removed the procedure "Multiply block light color"  
+Removed the procedure "Set light pixel"  
+Some fixes and improvements  
+Fixed some bugs  
+  
 v1.8.2  
 The event trigger "Graphics - Render models" was renamed "Graphics - Render world"  
 The procedure list "Model" was renamed "World"  
