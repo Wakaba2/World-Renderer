@@ -8,6 +8,9 @@ There are many procedure templates in the directory "templates."
 You can download and use them just like the built-in templates.  
   
 # Changelog  
+v1.x.x  
+Some fixes and improvements  
+  
 v1.8.3  
 You need to set a render target in order to render overlays  
 Changed the rendering system for shape overlays  
