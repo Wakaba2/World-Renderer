@@ -3,13 +3,13 @@ This plugin allows you to render objects on the sky and world
   
 ![gif](https://i.imgur.com/H9lEztq.png)  
   
-# Templates  
-There are many procedure templates in the directory "templates."  
-You can download and use them just like the built-in templates.  
-  
 # Changelog  
-v1.x.x  
+v1.8.4  
+Added support for MCreator 2024.3  
+Stopped support for MCreator 2023.4  
+Added support for NeoForge 1.21.1  
 Some fixes and improvements  
+Fixed some bugs  
   
 v1.8.3  
 You need to set a render target in order to render overlays  
