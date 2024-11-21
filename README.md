@@ -6,8 +6,8 @@ This plugin allows you to render objects on the sky and world
 # Changelog  
 v1.8.4  
 Added support for MCreator 2024.3  
-Stopped support for MCreator 2023.4  
 Added support for NeoForge 1.21.1  
+Stopped support for MCreator 2023.4  
 Some fixes and improvements  
 Fixed some bugs  
   
